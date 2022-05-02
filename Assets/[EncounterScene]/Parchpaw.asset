@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170fecf7dbf7d7f4cb4b6cdafb7278f6, type: 3}
+  m_Name: Parchpaw
+  m_EditorClassIdentifier: 
+  monsterName: Parchpaw
+  level: 5
+  description: 
+  type: 2
+  totalHp: 22
+  currentHp: 0
+  attack: 14
+  defense: 14
+  speed: 35
+  monsterAbilities:
+  - {fileID: 11400000, guid: 959ded1150f5b414cac96c2839dced84, type: 2}
+  - {fileID: 11400000, guid: d229f3eae4914614d8a61036af639579, type: 2}
+  frontSprite: {fileID: 21300000, guid: aab0ce89e20e24e4f873cc583825cdc5, type: 3}
+  backSprite: {fileID: 0}

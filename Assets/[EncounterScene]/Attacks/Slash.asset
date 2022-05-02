@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 601bec8cde8cf744f8594d98f6ab39c0, type: 3}
+  m_Name: Slash
+  m_EditorClassIdentifier: 
+  name: Slash
+  damage: 70
+  accuracy: 100
+  description: Slash the enemy
+  type: 4
+  moveEffect: 0
+  animation: {fileID: 8797256296700291235, guid: 446bca30fffe000428c9e3e5bcaff78a, type: 3}
+  animationTransform: {x: 2.61, y: 2.73788}
+  animationRotation: {x: 0, y: 0, z: 0}
+  effects:
+  - {fileID: 11400000, guid: 322df0b4641587b4c8b49fbbe812939c, type: 2}
+  index: 2

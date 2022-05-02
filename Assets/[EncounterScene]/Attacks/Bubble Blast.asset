@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 601bec8cde8cf744f8594d98f6ab39c0, type: 3}
+  m_Name: Bubble Blast
+  m_EditorClassIdentifier: 
+  name: Bubble Blast
+  damage: 50
+  accuracy: 100
+  description: 
+  type: 1
+  moveEffect: 0
+  animation: {fileID: 2813089800164889137, guid: dec2c0e79edacba499c649fea3f1fdb2, type: 3}
+  animationTransform: {x: 2.517614, y: 1.6405212}
+  animationRotation: {x: 26.564, y: -90, z: 90}
+  effects: []
+  index: 4

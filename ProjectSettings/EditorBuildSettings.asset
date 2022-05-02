@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/[TitleScreen]/TitleScreen.unity
+    guid: b5e9c2998f150854eb987ed4d320dbc3
+  - enabled: 1
+    path: Assets/[Overworld]/Overworld.unity
+    guid: 2da7ce05b0d5418488c346dad9d9a1d4
+  - enabled: 1
+    path: Assets/[EncounterScene]/EncounterScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/[Help]/Help.unity
+    guid: 39f3498a9f4f9274ba93b7a1614f613c
+  - enabled: 1
+    path: Assets/[Credits]/Credits.unity
+    guid: 14c3b540ef4fb684ea3d8bc12431cce2
+  m_configObjects: {}

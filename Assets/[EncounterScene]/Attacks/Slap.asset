@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 601bec8cde8cf744f8594d98f6ab39c0, type: 3}
+  m_Name: Slap
+  m_EditorClassIdentifier: 
+  name: Slap
+  damage: 40
+  damagingAttack: 1
+  accuracy: 95
+  description: Slap the enemy to assert dominance
+  type: 4
+  animation: {fileID: 2290304931699723553, guid: 867f4b4c88775244ea836a73577adc3a, type: 3}
+  animationTransform: {x: 3.43, y: 1.98}
+  animationRotation: {x: 0, y: 0, z: 0}
+  effects:
+  - {fileID: 11400000, guid: ec71230770aa6af43ad7be95089f07da, type: 2}
+  index: 0
